@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+
+<BondTransactions>
+
+	<Transaction>
+		<Date>10/10/2017</Date>
+		<Agent>St. James</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,500</Amount>
+	</Transaction>
+
+	<Transaction>
+		<Date>10/15/2017</Date>
+		<Agent>St. James</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$250</Amount>
+	</Transaction>
+
+
+	<Transaction>
+		<Date>11/7/2017</Date>
+		<Agent>Wilks</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$300</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>11/17/2017</Date>
+		<Agent>Wilks</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$150</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>12/5/2017</Date>
+		<Agent>Wilks</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,000</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>10/5/2017</Date>
+		<Agent>Camby</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$500</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>10/15/2017</Date>
+		<Agent>Camby</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$110</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>12/15/2017</Date>
+		<Agent>Jones</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$575</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>12/5/2017</Date>
+		<Agent>Jones</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$310</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>12/20/2017</Date>
+		<Agent>Jones</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$110</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>10/5/2017</Date>
+		<Agent>Fernendez</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,500</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>10/30/2017</Date>
+		<Agent>Fernendez</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,100</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>11/5/2017</Date>
+		<Agent>Fernendez</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,250</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>11/15/2017</Date>
+		<Agent>Fernendez</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,350</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>12/10/2017</Date>
+		<Agent>Jones</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,500</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>12/22/2017</Date>
+		<Agent>Jones</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,500</Amount>
+	</Transaction>
+
+	
+
+	<Transaction>
+		<Date>12/23/2017</Date>
+		<Agent>Jones</Agent>
+		<Commodity>Bond</Commodity>
+		<Amount>$1,500</Amount>
+	</Transaction>
+
+</BondTransactions>
